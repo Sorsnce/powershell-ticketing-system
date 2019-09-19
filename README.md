@@ -25,7 +25,7 @@ These instructions will get you setup to use the PowerShell Ticketing System
 The following table lists the software prerequisites to use the PowerShell Ticketing System.
 
 ```
-Phantom >= 5.1
+PowerShell >= 5.1
 Excel >= 2013
 ```
 
