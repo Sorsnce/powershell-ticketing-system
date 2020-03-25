@@ -37,4 +37,3 @@ Excel >= 2013
 ## Authors
 
 * **Trae Horton** - *Initial work* - [Powershell Ticketing System](https://github.com/sorsnce/powershell-ticketing-system)
-s
